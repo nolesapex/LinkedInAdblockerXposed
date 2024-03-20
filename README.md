@@ -3,4 +3,7 @@ LinkedIn AdBlock is an Xposed module that will remove the promoted advertisement
 
 This module hooks into the application methods and removes anything related to advertising. Promoted posts, annoyance popups, etc.
 
+Module not fully developed yet. Expected release to be somewhere in April :)
+
+
 
