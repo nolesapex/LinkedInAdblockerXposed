@@ -18,12 +18,12 @@ class AutoCloseAdModule : IXposedHookLoadPackage {
             object : XC_MethodHook() {
                 @Throws(Throwable::class)
                 override fun beforeHookedMethod(param: MethodHookParam) {
-                    // Your code before the original method executes
+                
                 }
 
                 @Throws(Throwable::class)
                 override fun afterHookedMethod(param: MethodHookParam) {
-                    // Your code after the original method executes
+                    
                 }
             }
         )
